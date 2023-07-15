@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location</string>
+    <string name="show_location_picker">Show Location Picker</string>
+
+</resources>
